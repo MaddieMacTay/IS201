@@ -1,0 +1,44 @@
+p{
+    color: rgb(99, 99, 99);
+    font-style: italic;
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+h2{
+    color: rgb(82, 82, 82);
+}
+
+.common{
+    text-align: center;
+    position: static;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.header{
+    height: 200px;
+    background-color: rgb(79, 153, 183);
+    line-height: 100px;
+    color: white;
+}
+
+.mainbody{
+    background-color: whitesmoke;
+}
+
+.footer{
+    height: 75px;
+    background-color: rgb(194, 192, 192);
+    line-height: 75px;
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.graph{
+    width: 75%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+

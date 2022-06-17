@@ -1,0 +1,48 @@
+h1{
+    color: bisque;
+}
+
+h2{
+    color:rgb(70, 70, 70);
+}
+
+h3{
+    color:rgb(70, 70, 70);
+}
+
+h4{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: bold;
+    color:rgb(70, 70, 70);
+}
+
+h5{
+    font-style: italic;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: lighter;
+    color:rgb(70, 70, 70);
+}
+
+p{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: dimgrey;
+}
+
+li{
+    color: dimgrey;
+}
+
+.footer{
+    background-color: lightgray;
+}
+
+.Links{
+    text-align: center;
+}
+
+img{
+    width: 75%;
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+}
